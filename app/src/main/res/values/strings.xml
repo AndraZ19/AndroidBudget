@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Gestionarea Bugetului</string>
+    <string name="text1">Bine ati venit!</string>
+    <string name="text2">Log In</string>
+    <string name="text3">Suma</string>
+    <string name="text4">Introduceti sumele</string>
+    <string name="hint">Username</string>
+    <string name="pwd">Parola</string>
+    <string name="Switch">Generati cheltuieli</string>
+    <string name="Switch2">Generati venituri</string>
+    <string name="checkBox">Produse alimentare</string>
+    <string name="checkBox2">Produse casa si ingrijire</string>
+    <string name="checkBox3">Haine si accesorii</string>
+    <string name="checkBox4">Facturi si datorii</string>
+    <string name="checkBox5">Timp liber</string>
+    <string name="checkBox6">Economii</string>
+    <string name="checkBox7">Salariu</string>
+    <string name="checkBox8">Investitii</string>
+    <string name="checkBox9">Proiecte</string>
+    <string name="checkBox10">Altele</string>
+    <string-array name="Module">
+        <item name="Venituri"></item>
+        <item name="Cheltuieli" />
+    </string-array>
+</resources>
